@@ -1,2 +1,5 @@
 service:
-  name: test service for Production B
+  name: "202033532 김혁진"  
+logging:
+  level:
+    root: WARN
