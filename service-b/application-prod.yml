@@ -2,4 +2,4 @@ service:
   name: "202033532 김혁진"  
 logging:
   level:
-    root: WARN
+    root: INFO
